@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subliminal-web
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web securit
+- 🌱 I’m currently learning web security
 - 💞️ I’m looking to collaborate on creating interesting websites and mobile apps
 - 📫 How to reach me 
 - 😄 Pronouns: WTF is that question github?!
